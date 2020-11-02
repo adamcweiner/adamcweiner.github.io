@@ -6,6 +6,6 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Software used in publications
+## In publications
 
 All analysis for the common gamma chain cytokine paper can be found [here](https://github.com/meyer-lab/gc-cytokines).
