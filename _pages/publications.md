@@ -4,13 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Preprints
+* Modeling Cell-Specific Dynamics and Regulation of the Common Gamma Chain Cytokines. Ali M. Farhat, **Adam C. Weiner**, Cori Posner, Zoe S. Kim, Brian Orcutt-Jahns, Scott M. Carlson, Aaron S. Meyer. BioRxiv, 2020 [link](https://www.biorxiv.org/content/10.1101/778894v2)
+
