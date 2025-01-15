@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adam Weiner"
 title_separator          : "-"
 name                     : &name Adam Weiner"
-description              : &description "PhD Student at Memorial Sloan Kettering Cancer Center"
+description              : &description "Postdoctoral Researcher at UCSF-Gladstone and Stanford University"
 url                      : https://adamcweiner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adamcweiner.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Adam Weiner"
   avatar           : "MSK_photo_200131_05.jpg"
   bio              : "PhD student studying cancer evolutionary genomics"
-  location         : "New York, NY"
-  employer         : "Memorial Sloan Kettering"
+  location         : "San Francisco, CA"
+  employer         : "Gladstone Institutes"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VQPDevUAAAAJ&hl=en"
-  email            : "weinera2@mskcc.org"
+  email            : "adam.weiner@gladstone.ucsf.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/California # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
