@@ -6,4 +6,4 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My CV can be downloaded [here](https://adamcweiner.github.io/files/CV_2020_11_02.pdf)
+My CV can be found [here](https://github.com/adamcweiner/Adam-Weiner-CV/blob/main/Adam_Weiner_CV.pdf)
